@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Goswami</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack web-developer from India</h3>
 
 - 📫 How to reach me **kunalgoswami.2806@gmail.com**
 <p align="left">
