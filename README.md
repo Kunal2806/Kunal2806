@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kunal Goswami</h1>
-<h3 align="center"working...</h3>
 
 - 📫 How to reach me **kunalgoswami.2806@gmail.com**
 <p align="left">
